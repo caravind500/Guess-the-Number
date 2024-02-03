@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    background-image: url("num.jpg");
+    color: white;
+}
+h1{
+    font-size: 70px;
+}
+.container{
+   font-size: 45px;
+}
+input{
+    width: 300px;
+}
